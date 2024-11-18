@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Vivek Sharma
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Vivek
@@ -183,4 +183,6 @@ languages:
 
 ## About Me
 
-Pursuing my second year of Bachelor of Engineering in Computer Science & Engineering at <u>Institute of Engineering & Technology, Agra</u>. Driven by curiosity and a passion for exploring new technologies, I am committed to making a meaningful impact in the tech world. Always eager to learn, collaborate, and turn innovative ideas into practical solutions. Let’s connect and grow together!
+Pursuing my second year of Bachelor of Engineering in Computer Science & Engineering at <u>Institute of Engineering & Technology, Agra</u>. Driven by curiosity and a passion for exploring new technologies.
+
+I am committed to making a meaningful impact in the tech world. Always eager to learn, collaborate, and turn innovative ideas into practical solutions. Let’s connect and grow together!
