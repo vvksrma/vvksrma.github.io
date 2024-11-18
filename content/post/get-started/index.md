@@ -1,6 +1,6 @@
 ---
 title: Comming Soon
-summary: Comming Soon
+summary: ''
 date: 2024-11-18
 
 # Featured image
