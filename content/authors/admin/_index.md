@@ -185,4 +185,4 @@ languages:
 
 Pursuing my second year of Bachelor of Engineering in Computer Science & Engineering at [<u>Institute of Engineering & Technology, Agra</u>](https://ietagra.org/). Driven by curiosity and a passion for exploring new technologies.
 
-I am committed to making a meaningful impact in the tech world. Always eager to learn, collaborate, and turn innovative ideas into practical solutions. Let’s connect and grow together!<br/>
+I am committed to making a meaningful impact in the tech world. Always eager to learn, collaborate, and turn innovative ideas into practical solutions. Let’s connect and grow together!

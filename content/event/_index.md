@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Competition & Hackathons
 cms_exclude: true
 #url: talk
 

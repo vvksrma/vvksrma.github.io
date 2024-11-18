@@ -1,19 +1,25 @@
 ---
-title: Example Talk
+title: Smart India Hackathon 2024
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: SIH2024 Internal Hackathon
+event_url: ''
 
-location: Hugo Blox Builder HQ
+location: Institute of Engineering & Technology, DBRAU, Agra
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ''
+  city: Agra
+  region: 
+  postcode: '282002'
+  country: ''
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Efficient navigation in large railway stations remains a significant challenge for travelers, particularly during peak hours or in unfamiliar settings. Our solution introduces a smart railway station navigation system that leverages modern technologies to streamline station exploration and enhance passenger convenience.
+
+The system utilizes an intuitive mobile application integrated with the Google Maps API for precise navigation and real-time guidance. It combines IoT-enabled sensors to monitor key station facilities, ensuring travelers receive up-to-date information on crowd density, train schedules, and platform changes. QR-code-based entry to station-specific maps ensures easy and accurate access to navigation tools.
+
+Key features include real-time train updates, voice-guided navigation, and multi-language support, catering to diverse user needs. The system also incorporates filters for accessible routes, making it inclusive for differently-abled individuals. With a user-friendly design, passengers can efficiently locate platforms, ticket counters, restrooms, and other essential facilities.
+
+This project aligns with the goals of the Digital India initiative, offering a practical and scalable solution to transform railway station navigation through the innovative use of IoT, Google Maps, and mobile technologies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,7 +67,7 @@ slides: ""
 projects:
   - example
 ---
-
+<!-- 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
@@ -72,4 +78,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
