@@ -6,10 +6,11 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  # spacing: "6rem"
 
 sections:
   - block: resume-biography-3
+  spacing: "2rem"
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
