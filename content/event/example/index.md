@@ -13,15 +13,12 @@ address:
   country: ''
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: # Abstract  
-
-Efficient navigation in large railway stations remains a significant challenge for travelers, particularly during peak hours or in unfamiliar settings.  
+abstract: Efficient navigation in large railway stations remains a significant challenge for travelers, particularly during peak hours or in unfamiliar settings.  
 
 Our solution introduces a **smart railway station navigation system** that leverages modern technologies to streamline station exploration and enhance passenger convenience.  
 
 The system utilizes an intuitive **mobile application** integrated with the **Google Maps API** for precise navigation and real-time guidance. It combines **IoT-enabled sensors** to monitor key station facilities, ensuring travelers receive up-to-date information on crowd density, train schedules, and platform changes. **QR-code-based entry** to station-specific maps ensures easy and accurate access to navigation tools.  
 
-### Key Features:
 - **Real-time train updates**  
 - **Voice-guided navigation**  
 - **Multi-language support**  
