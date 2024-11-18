@@ -19,10 +19,10 @@ Our solution introduces a **smart railway station navigation system** that lever
 
 The system utilizes an intuitive **mobile application** integrated with the **Google Maps API** for precise navigation and real-time guidance. It combines **IoT-enabled sensors** to monitor key station facilities, ensuring travelers receive up-to-date information on crowd density, train schedules, and platform changes. **QR-code-based entry** to station-specific maps ensures easy and accurate access to navigation tools.  
 
-- **Real-time train updates**  
-- **Voice-guided navigation**  
-- **Multi-language support**  
-- **Accessible route filters** for differently-abled individuals  
+Real-time train updates  
+Voice-guided navigation  
+Multi-language support  
+Accessible route filters for differently-abled individuals  
 
 With its user-friendly design, the system helps passengers efficiently locate platforms, ticket counters, restrooms, and other essential facilities.  
 
