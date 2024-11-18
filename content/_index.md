@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
