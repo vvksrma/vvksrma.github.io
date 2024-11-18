@@ -12,7 +12,7 @@ address:
   postcode: '282002'
   country: ''
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: 'An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: Efficient navigation in large railway stations remains a significant challenge for travelers, particularly during peak hours or in unfamiliar settings.  
 
 Our solution introduces a **smart railway station navigation system** that leverages modern technologies to streamline station exploration and enhance passenger convenience.  
@@ -26,7 +26,7 @@ Accessible route filters for differently-abled individuals
 
 With its user-friendly design, the system helps passengers efficiently locate platforms, ticket counters, restrooms, and other essential facilities.  
 
-This project aligns with the goals of the **Digital India initiative**, offering a practical and scalable solution to transform railway station navigation through the innovative use of **IoT**, **Google Maps**, and mobile technologies.  
+This project aligns with the goals of the **Digital India initiative**, offering a practical and scalable solution to transform railway station navigation through the innovative use of **IoT**, **Google Maps**, and mobile technologies.'
 
 
 # Talk start and end times.
