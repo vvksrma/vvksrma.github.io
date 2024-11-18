@@ -20,31 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Computer Science Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Institute of Engineering & Technology, Agra
+    url: https://ietagra.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:viveksharma0390@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/vvksrma
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/hello-vivek/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
