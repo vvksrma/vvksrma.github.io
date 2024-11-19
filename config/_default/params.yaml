@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'IIT KANPUR'
+    org_name: 'IET AGRA'
     description: 'UNDERGRADUATE STUDENT'
     twitter: ''
   analytics:
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Pratham. '
+    notice: '© {year} Vivek Sharma. '
     license:
       enable: true
       allow_derivatives: false

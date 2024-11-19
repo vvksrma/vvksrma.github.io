@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Pratham Sahu
+title: Vivek Sharma
 date: 2022-10-24
 type: landing
 
